@@ -1,0 +1,30 @@
+body{
+	font-size: 2rem;
+}
+.mui-grid-view.mui-grid-9 .mui-media{
+	padding: 42px;
+}
+.mui-grid-view.mui-grid-9 .bg1{
+	background: #2AC845;
+}
+.mui-grid-view.mui-grid-9 .bg2{
+	background: #ff9c99;
+}
+.mui-grid-view.mui-grid-9 .bg3{
+	background: coral;
+}
+.mui-grid-view.mui-grid-9 .bg4{
+	background: #8A6DE9;
+}
+.mui-grid-view.mui-grid-9 .bg5{
+	background: #a4aaff;
+}
+.mui-grid-view.mui-grid-9 .bg6{
+	background: #F0AD4E;
+}
+.mui-grid-view.mui-grid-9 .mui-table-view-cell>a{
+	color: #fff;
+}
+.mui-table-view.mui-grid-view .mui-table-view-cell .mui-media-body{
+	color: #fff;
+}

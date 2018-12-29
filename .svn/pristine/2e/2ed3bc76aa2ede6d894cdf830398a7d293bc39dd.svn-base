@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>呼叫</title>
+		<link rel="stylesheet" type="text/css" href="css/mui.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/global.css" />
+		<link rel="stylesheet" type="text/css" href="css/call.css" />
+	</head>
+	<body>
+		<div class="mui-content">
+			<div class="box">
+				<div class="item fire">
+					火警：<em>119</em>
+				</div>
+				<div class="item hospital">
+					医院：<em>120</em>
+				</div>
+				<div class="item alert">
+					报警：<em>110</em>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

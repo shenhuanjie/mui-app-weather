@@ -9,7 +9,7 @@
 		<link rel="stylesheet" type="text/css" href="css/mui.min.css" />
 		<link rel="stylesheet" type="text/css" href="css/global.css" />
 		<link rel="stylesheet" type="text/css" href="css/weather.css" />
-		<script src="js/vue.js" type="text/javascript" charset="utf-8"></script>
+		<script src="https://unpkg.com/vue/dist/vue.js"></script>
 	</head>
 
 	<body>
@@ -50,9 +50,6 @@
 
 		</div>
 		<script src="js/weather.js" type="text/javascript" charset="utf-8"></script>
-		<script src="js/mui.min.js"></script>
-		<script type="text/javascript">
-			mui.init()
 		</script>
 	</body>
 

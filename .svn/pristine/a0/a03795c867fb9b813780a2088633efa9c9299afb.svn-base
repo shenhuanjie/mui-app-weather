@@ -1,0 +1,15 @@
+.box {
+	margin: 0 auto;
+	width: 600px;
+	text-align: center;
+	margin-top: 20%;
+}
+
+.item {
+	line-height: 2rem;
+	padding: 20px;
+}
+
+.item em {
+	font-size: 50px;
+}
